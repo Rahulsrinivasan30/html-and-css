@@ -1,7 +1,7 @@
 div{
     width: 200px;
     height: 200px;
-    /* background-color: rgba(227, 253, 110, 0.931); */
+    background-color: rgba(227, 253, 110, 0.931);
 
 }
 h2{
@@ -12,5 +12,6 @@ h2{
 
 #one{
     background-color: rgba(136, 241, 136, 0.808);
-    color: crimson;
+    /* color: crimson; */
+    border-radius: 5%;
 }
