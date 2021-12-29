@@ -16,6 +16,7 @@ h2{
     background-color: rgba(136, 241, 136, 0.808);
     /* color: crimson; */
     border-radius: 3%;
+    margin: 7px 0px;
 }
 #two{
     background-color: rgb(246, 253, 146);
