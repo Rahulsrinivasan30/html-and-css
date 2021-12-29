@@ -1,15 +1,16 @@
-/* div{
+div{
     width: 200px;
     height: 200px;
-    background-color: rgba(227, 253, 110, 0.931);
+    /* background-color: rgba(227, 253, 110, 0.931); */
 
-} */
+}
 h2{
     background-color: burlywood;
     width: 550px;
     align-content: center;
 }
 
-#1{
-    background-color: cadetblue;
+#one{
+    background-color: rgba(136, 241, 136, 0.808);
+    color: crimson;
 }
