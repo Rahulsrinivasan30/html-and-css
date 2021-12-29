@@ -13,5 +13,13 @@ h2{
 #one{
     background-color: rgba(136, 241, 136, 0.808);
     /* color: crimson; */
-    border-radius: 5%;
+    border-radius: 3%;
+}
+#2{
+    background-color: rgb(246, 253, 146);
+    border-radius: 3%;
+}
+#3{
+    background-color: rgb(235, 134, 235);
+    border-radius: 3%;
 }
