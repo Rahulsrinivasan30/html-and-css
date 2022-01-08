@@ -1,0 +1,35 @@
+body{
+    font-family: 'Spline Sans', sans-serif;
+    
+}
+h1{
+    font-size: 5em;
+    text-align: center;
+}
+
+ul,li{
+    display: inline;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid red;
+}
+ul{
+    display: flex;
+    flex: 1;
+    max-width: 35%;
+    justify-content: space-around;
+    border: 1px solid black;
+}
+
+@media (max-width:800px) {
+    h1{
+        font-size: 4em;
+    }
+}
+@media (max-width:600px) {
+    h1{
+        font-size: 3em;
+    }
+}
